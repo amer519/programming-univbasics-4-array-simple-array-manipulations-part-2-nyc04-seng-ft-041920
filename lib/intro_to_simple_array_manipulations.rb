@@ -21,7 +21,7 @@ def using_delete(array, string)
   array.delete(string)
 end
 
-def using_delete_at(array, 5)
-  array.delete_at(5)
+def using_delete_at(array, 2)
+  array.delete_at(2)
   
 end
