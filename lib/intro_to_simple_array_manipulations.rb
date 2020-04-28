@@ -3,10 +3,9 @@ def using_concat(my_favorite_things, favs)
 end
   
   
-def using_insert(array, python)
+def using_insert(array, love)
   
-  array.insert(4, python)
+  array.insert(4, love)
 end
 
 
-def using_uniq(array, love)
