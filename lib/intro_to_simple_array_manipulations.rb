@@ -7,3 +7,6 @@ def using_insert(array, python)
   
   array.insert(4, python)
 end
+
+
+def using_uniq(array, love)
