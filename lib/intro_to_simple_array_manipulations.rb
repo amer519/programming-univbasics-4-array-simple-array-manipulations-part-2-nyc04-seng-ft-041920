@@ -5,7 +5,7 @@ end
   
 def using_insert(array, love)
   
-  array.insert (4, love)
+  array.insert(4, love)
 end
 
 
