@@ -9,3 +9,7 @@ def using_insert(array, love)
 end
 
 
+def using_uniq(array)
+  array.uniq
+  
+end
